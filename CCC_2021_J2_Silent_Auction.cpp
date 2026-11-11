@@ -2,11 +2,7 @@
 // Date: 2026-11-08
 // Difficulty: Junior 2
 // Approach: Used a struct to store the name and bid. 
-// Maintained the highest bid while looping. 
-// Tie-breaker rule: used strictly ">" instead of ">=" so the first bidder wins.
 
-#include <bits/stdc++.h>
-using namespace std;
 #include <bits/stdc++.h>
 using namespace std;
 
